@@ -1,0 +1,1 @@
+C:\Test\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
